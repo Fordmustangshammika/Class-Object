@@ -6,3 +6,12 @@ Objects have states and behaviors. Example: A dog has states - color, name, bree
 
 Class :
 A class can be defined as a template/blueprint that describes the behavior/state that the object of its type support.
+
+-------------------------------------------------------
+Example
+-------------------------------------------------------
+Phone Shop --------------- Class
+
+    Samsung Note 8 ---- Object
+    Iphone 12 --------- Object
+-------------------------------------------------------
